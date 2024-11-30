@@ -8,7 +8,7 @@
 <summary>必修课程</summary>
 <a><p style="font-size:16px;color:grey">形势与政策I</p></a>
 
-<a><p style="font-size:16px;color:grey">思想道德与法治</p></a>
+<a><p style="font-size:16px">思想道德与法治</p></a>
 
 <a><p style="font-size:16px;color:grey">中国近现代史纲要</p></a>
 
